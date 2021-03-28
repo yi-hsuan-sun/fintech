@@ -3,16 +3,17 @@
 > What do I think of Cloud Computing?
 
 ### [HomeWork 2]() 
-> 在 Amazon Linux 2 上安裝 LAMP Web 伺服器
+> Build a Website using Amazon EC2 with LAMP
 
 ### [HomeWork 3]()
-
+> Build a Website using Amazon S3(Versioning)
+and AWS Amplify
 
 ### HomeWork 4
-
+>
 ### HomeWork 5
-
+>
 ### HomeWork 6
-
+>
 
 
