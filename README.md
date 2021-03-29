@@ -30,7 +30,7 @@ week5
 ### [HomeWork 1]() 
 > What do I think of Cloud Computing?
 
-### [HomeWork 2]() 
+### [HomeWork 2](https://youtu.be/q2-za882nwU) 
 > Build a Website using Amazon EC2 with LAMP
 
 ### [HomeWork 3]()
