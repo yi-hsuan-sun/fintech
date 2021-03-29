@@ -29,30 +29,36 @@ week5
 ## HomeWork
 ### [HomeWork 1](https://github.com/yi-hsuan-sun/fintech/blob/main/HW/homework1.md) 
 > What do I think of Cloud Computing?
+
 > 截止日期：2020/03/22
 
 ### [HomeWork 2](https://youtu.be/q2-za882nwU) 
 > Build a Website using Amazon EC2 with LAMP
+
 > 截止日期：2020/03/29
 
 ### [HomeWork 3]()
 > Build a Website using Amazon S3(Versioning)
 and AWS Amplify
+
 > 截止日期：2020/04/12
 
 ### HomeWork 4
 > Build a Telegram Chatbot using Amazon API
 Gateway and AWS Lambda
+
 > 截止日期：2020/04/26
 
 ### HomeWork 5
->Create a Database using Amazon RDS or
+> Create a Database using Amazon RDS or
 Amazon DynamoDB
+
 > 截止日期：2020/05/03
 
 ### HomeWork 6
 >Create a Docker Container or Build your own
 Project Services
+
 > 截止日期：2020/05/17
 
 ## 專案：南山人壽題目一
