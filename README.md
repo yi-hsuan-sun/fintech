@@ -27,7 +27,7 @@ week5
 * [AWS IAM &S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
 
 ## HomeWork
-### [HomeWork 1]() 
+### [HomeWork 1](https://github.com/yi-hsuan-sun/fintech/blob/main/HW/homework1.md) 
 > What do I think of Cloud Computing?
 
 ### [HomeWork 2](https://youtu.be/q2-za882nwU) 
