@@ -33,7 +33,7 @@ week5
 
 ### [HomeWork 2](https://youtu.be/q2-za882nwU) 
 > Build a Website using Amazon EC2 with LAMP
-> > 截止日期：2020/03/29
+> 截止日期：2020/03/29
 
 ### [HomeWork 3]()
 > Build a Website using Amazon S3(Versioning)
@@ -41,7 +41,7 @@ and AWS Amplify
 > 截止日期：2020/04/12
 
 ### HomeWork 4
->Build a Telegram Chatbot using Amazon API
+> Build a Telegram Chatbot using Amazon API
 Gateway and AWS Lambda
 > 截止日期：2020/04/26
 
