@@ -4,6 +4,8 @@
 
 * 狹義層面：分為雲端543
 
+### 狹義方面：
+
 > 三種服務模式
     
    * IAAS 基礎設施即服務 (Infrastructure-as-a-Service)  
