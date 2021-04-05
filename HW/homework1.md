@@ -34,6 +34,7 @@
   * 多雲崛起將使雲端基礎建設供應商之間的藩籬被打破
   * 人工智慧將拉升雲端運算的效率和速度
   * 更多的人將在虛擬雲端桌面上工作
+  * (下圖為全球對於雲端運算資源的需求持續攀升)
   * ![image](https://scontent.ftpe13-2.fna.fbcdn.net/v/t1.15752-9/167912421_469818874067584_2731184770101573705_n.png?_nc_cat=110&ccb=1-3&_nc_sid=ae9488&_nc_ohc=EWreFXdAeNQAX9xrgD5&_nc_ht=scontent.ftpe13-2.fna&oh=25b64d69bdb01bfbd56e7ec2a5290368&oe=60908618&dl=1)
   
 ### 我的見解：
