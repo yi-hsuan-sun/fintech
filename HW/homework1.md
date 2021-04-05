@@ -4,7 +4,7 @@
 
 * 狹義層面：分為雲端543
 
-* 3種服務模式    
+> 3種服務模式    
     * IAAS 基礎設施即服務 (Infrastructure-as-a-Service)  
     * PAAS 平台即服務 (Platform-as-a-Service)  
     * SAAS 軟體即服務 (Software-as-a-Service) 
