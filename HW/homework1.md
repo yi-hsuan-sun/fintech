@@ -6,9 +6,9 @@
 
 > 3種服務模式
     
-    * IAAS 基礎設施即服務 (Infrastructure-as-a-Service)  
-    * PAAS 平台即服務 (Platform-as-a-Service)  
-    * SAAS 軟體即服務 (Software-as-a-Service) 
+   * IAAS 基礎設施即服務 (Infrastructure-as-a-Service)  
+   * PAAS 平台即服務 (Platform-as-a-Service)  
+   * SAAS 軟體即服務 (Software-as-a-Service) 
 > 2. **四**類部署方式
 > 3. **五**個服務特色
 雲端運算近年非常熱門，透過此伺服器可以傳遞各種數據，以便需使用者在上面存取資料。
