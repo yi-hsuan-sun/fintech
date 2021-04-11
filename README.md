@@ -37,7 +37,7 @@ week5
 
 > 截止日期：2020/03/29
 
-### [HomeWork 3]()
+### [HomeWork 3](https://youtu.be/VHmzQrbTMRY)
 > Build a Website using Amazon S3(Versioning)
 and AWS Amplify
 
