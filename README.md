@@ -26,6 +26,21 @@ week4
 week5
 * [AWS IAM &S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
 
+week6
+*
+
+week6
+*
+
+week6
+*
+
+week6
+*
+
+week6
+*
+
 ## HomeWork
 ### [HomeWork 1](https://github.com/yi-hsuan-sun/fintech/blob/main/HW/homework1.md) 
 > What do I think of Cloud Computing?
@@ -49,7 +64,7 @@ Gateway and AWS Lambda
 
 > 截止日期：2020/04/26
 
-### HomeWork 5
+### [HomeWork 5](https://youtu.be/WWqD-_CmFHY)
 > Create a Database using Amazon RDS or
 Amazon DynamoDB
 
