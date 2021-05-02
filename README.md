@@ -27,18 +27,18 @@ week5
 * [AWS IAM &S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
 
 week6
-*
+* [API Gateway and AWS Lambda](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)
 
-week6
-*
+week7
+* 學術交流週
 
-week6
-*
+week8
+* [AWS RDS](https://drive.google.com/file/d/1-Tt21ovueEePMO75VcPnuZADbrIcL4jH/view)
 
-week6
-*
+week9
+* 
 
-week6
+week10
 *
 
 ## HomeWork
