@@ -83,6 +83,8 @@ Project Services
 
 * 業師：南山人壽 張明淇    
 * 指導老師：台大財金石百達老師
+* [4/19進度匯報一影片]()
+* 5/10 進度匯報二投影片(https://cdn.fbsbx.com/v/t59.2708-21/181951458_893867827837176_1020193054223828046_n.pptx/南山一T2-進度匯報二.pptx?_nc_cat=100&ccb=1-3&_nc_sid=0cab14&_nc_ohc=ecEwz0dbPqsAX8NNvNy&_nc_ht=cdn.fbsbx.com&oh=d5e95068f38b10b8aebadd7309adb186&oe=609A9EBF&dl=1)
 
 | 組員姓名   | 學校 / 科系   | 
 | :---: | :-------------: | 
