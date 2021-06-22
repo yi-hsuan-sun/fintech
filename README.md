@@ -86,6 +86,9 @@ Project Services
 * [4/19進度匯報一影片](https://youtu.be/tEMPKnyzjzM)
 * [5/10 進度匯報二投影片](https://cdn.fbsbx.com/v/t59.2708-21/180693823_875473853036651_4580435053637115285_n.pptx/%E5%8D%97%E5%B1%B1%E4%B8%80T2-%E9%80%B2%E5%BA%A6%E5%8C%AF%E5%A0%B1%E4%BA%8C.pptx?_nc_cat=107&ccb=1-3&_nc_sid=0cab14&_nc_ohc=sVgAiIZ2VzwAX8wV7TP&_nc_ht=cdn.fbsbx.com&oh=2b72e8b995d8a7df5d989ec731a56fff&oe=609A7428&dl=1)
 * [5/31 進度匯報三影片](https://youtu.be/ooKi3z3LUdQ)
+* [專案作品三分鐘影片](https://youtu.be/4i5B8hfvl6w)
+* [專案作品十五分鐘影片](https://www.youtube.com/watch?v=X1RBUOlYgpI)
+* [專案作品投影片](https://cdn.fbsbx.com/v/t59.2708-21/202617452_610413453321807_3734502651006135160_n.pdf/文本生成4.pdf?_nc_cat=103&ccb=1-3&_nc_sid=0cab14&_nc_ohc=jhpRv-apeFQAX-9A6pR&_nc_ht=cdn.fbsbx.com&oh=9cd15ed72102299706dfe4d03d2b5806&oe=60D3901E&dl=1)
 
 | 組員姓名   | 學校 / 科系   | 
 | :---: | :-------------: | 
