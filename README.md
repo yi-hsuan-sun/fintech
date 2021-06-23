@@ -90,6 +90,7 @@ Project Services
 * [專案作品十五分鐘影片](https://www.youtube.com/watch?v=X1RBUOlYgpI)
 * [專案作品投影片](https://cdn.fbsbx.com/v/t59.2708-21/202617452_610413453321807_3734502651006135160_n.pdf/文本生成4.pdf?_nc_cat=103&ccb=1-3&_nc_sid=0cab14&_nc_ohc=jhpRv-apeFQAX-9A6pR&_nc_ht=cdn.fbsbx.com&oh=9cd15ed72102299706dfe4d03d2b5806&oe=60D3901E&dl=1)
 * [專案作品連結](https://fintech-2021-t2.herokuapp.com/)
+* [專案作品程式碼](https://github.com/yuchiahung/Fintech-2021-T2)
 
 | 組員姓名   | 學校 / 科系   | 
 | :---: | :-------------: | 
